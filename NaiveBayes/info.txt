@@ -1,0 +1,1 @@
+This folder contains 2 codes where one demonstrates how to use NB and other uses NB for email spam detection.
