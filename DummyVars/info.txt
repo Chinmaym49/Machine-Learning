@@ -1,0 +1,1 @@
+This folder contains 2 codes where the string data in the sample datasets is converted into numerical data by introducing dummy variables.
