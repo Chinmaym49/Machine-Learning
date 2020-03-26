@@ -1,0 +1,1 @@
+This folder contains 2 codes where the sample datasets are cleaned by replacing NaN values with medians.
